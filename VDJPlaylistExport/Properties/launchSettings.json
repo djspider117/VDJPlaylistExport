@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VDJPlaylistExport": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\ionut\\Documents\\VirtualDJ\\Playlists\\YearMixes\\2023\\V2.m3u C:\\__YEARMIX2023"
+    }
+  }
+}
